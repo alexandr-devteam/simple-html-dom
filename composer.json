@@ -1,0 +1,17 @@
+{
+    "name": "class-central/simple-html-dom",
+    "description": "Fork of http://sourceforge.net/projects/simplehtmldom/",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Oleksandr Borovets",
+            "email": "oleksandr.borovets@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-0": {
+            "SimplehtmldomClient": ""
+        }
+    },
+    "require": {}
+}
